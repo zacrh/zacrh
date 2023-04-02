@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, I'm Zac 👋
 
-<!--
-**zacrh/zacrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about using technology to create social good through remarkable digital experiences.
 
-Here are some ideas to get you started:
+## 🔭 Current
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on Veer - we're an esports startup focused on using statistics and data to empower gamers of all skill-levels.
+
+## ⚡️ Experience
+
+I like to say I'm full stack, though the bulk of my time is spent architecting infrastructure geared towards data-intensive applications.
+
+## 🔎 Me
+
+You can read more about me at my personal site, [✨ 0z.gg](https://0z.gg).
