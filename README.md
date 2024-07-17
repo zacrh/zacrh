@@ -1,6 +1,6 @@
 ### Hey, I'm Zac 👋
 
-I'm a developer passionate about about building performant, large-scale applications to create material impact.
+I'm a developer passionate about building performant, large-scale applications to create material impact.
 
 ## 🔭 Current
 
